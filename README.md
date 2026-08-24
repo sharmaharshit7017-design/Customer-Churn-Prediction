@@ -1,4 +1,10 @@
-# Customer Churn Prediction App
+# 📉 Customer Churn Prediction
+
+A Machine Learning web application that predicts whether a customer is likely to churn based on their demographic, service, and account information.
+
+## 🚀 Live Demo
+
+👉 [Try the Customer Churn Prediction App](https://customer-churn-prediction-uxxaph983kgvtmfwudm799.streamlit.app/)
 
 ## Overview
 
